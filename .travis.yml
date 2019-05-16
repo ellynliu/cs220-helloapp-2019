@@ -5,4 +5,4 @@ branches:
 language: python
 
 script:
-  - make
+  - pytest
